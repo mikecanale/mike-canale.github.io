@@ -1,0 +1,288 @@
+body {
+    color: #777777; 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    max-width: 960px; 
+    margin-left: 240px; 
+    background-image: url('../images/circuit.png');
+}
+
+.toppage {
+    margin: auto; 
+    width: 910px; 
+    background-color: white; 
+    padding: 25px; 
+    border-width: 0px 0px 0px 0px; 
+    border-bottom: 8px solid #4aaaa5; 
+    border-top: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5; 
+}
+
+a {
+    text-decoration: none; 
+}
+
+.firstname {
+    background-color: #4aaaa5; 
+    float: left; 
+    position: absolute; 
+    width: 220px; 
+    height: 80px; 
+    margin: 0px 0px 0px 0px;   
+}
+
+.firstname h1 {
+    color: white; 
+    background-color: #4aaaa5; 
+    font-family: 'Georgia', Times, 'Times New Roman', serif; 
+    margin: 20px; 
+    text-align: center; 
+    font-size: 28px;  
+}
+
+.navbar {
+    margin: 20px 20px 0px 0px;   
+}
+
+nav ul {
+    color: #777777; 
+    list-style-type: none; 
+    margin: -25px; 
+    padding: 0; 
+    overflow: hidden; 
+    float: right; 
+    display: block; 
+}
+
+nav li {
+    color: #777777; 
+    float: left; 
+    text-align: center; 
+    display: block; 
+}
+
+nav li a {
+    color: #777777; 
+    display: block; 
+    text-align: center; 
+    margin-right: 0;
+    width: auto; 
+    padding: 16px; 
+    line-height: 0; 
+    text-decoration: none; 
+    border-right: 1px solid lightgrey; 
+}
+
+.aboutme {
+    margin: 80px; 
+    width: 920px; 
+    margin-left: 0px;  
+    height: 340px;  
+    position: absolute; 
+    padding: 20px; 
+    background-color: white; 
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5; 
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif; 
+}
+
+.aboutme img {
+    float: left; 
+    padding: 20px;  
+}
+
+.footer {
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5; 
+    background-color: #666666; 
+    color: white; 
+    height: 70px; 
+    width: 960px;  
+    margin-top: 550px;  
+    margin-left: 0px; 
+    margin-bottom: 0%;
+    position: absolute; 
+    text-align: center;
+}
+
+.portfolio {
+    margin: 80px; 
+    width: 920px; 
+    margin-left: 0px;  
+    height: 540px;  
+    position: absolute; 
+    padding: 20px; 
+    background-color: white; 
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5; 
+}
+
+.parent1 {
+    float: left;  
+    width: 33.3%; 
+    height: 100px; 
+    position: relative;  
+    margin-bottom: 140px; 
+}
+
+.child1 {
+    text-align: center; 
+    height: 40px; 
+    width: 224px; 
+    background-color: #4aaaa5;
+    position: absolute;   
+}
+
+.parent2 {
+    float: left; 
+    width: 33.3%; 
+    height: 100px; 
+    position: relative;  
+    margin-bottom: 140px; 
+}
+
+.child2 {
+    text-align: center;
+    height: 40px; 
+    width: 224px; 
+    background-color: #4aaaa5;
+    position: absolute;     
+}
+
+.parent3 {
+    float: right; 
+    width: 33.3%; 
+    height: 100px; 
+    position: relative;  
+    margin-bottom: 140px; 
+}
+
+.child3 {
+    text-align: center;
+    height: 40px; 
+    width: 224px; 
+    background-color: #4aaaa5;
+    position: absolute;     
+}
+
+.parent4 {
+    float: left; 
+    height: 100px; 
+    position: relative;  
+    margin-left: 10%;  
+}
+
+.child4 {
+    text-align: center;
+    height: 40px; 
+    width: 224px; 
+    background-color: #4aaaa5;
+    position: absolute;      
+}
+
+.parent5 {
+    float: left;  
+    height: 100px; 
+    position: relative;  
+    margin-left: 20%;
+}
+
+.child5 {
+    text-align: center;
+    height: 40px; 
+    width: 224px; 
+    background-color: #4aaaa5;
+    position: absolute;     
+}
+
+.footer2 {
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5; 
+    background-color: #666666; 
+    color: white; 
+    height: 70px; 
+    width: 960px;  
+    margin-top: 750px;  
+    margin-left: 0px; 
+    margin-bottom: 0%;
+    position: absolute; 
+    text-align: center;
+}
+
+.contact {
+    margin: 80px; 
+    width: 920px; 
+    margin-left: 0px;  
+    height: 640px;  
+    position: absolute; 
+    padding: 20px; 
+    background-color: white; 
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5;
+}
+
+.name {
+    width: 900px; 
+    height: 40px; 
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5;
+    font-size: 15px;
+    text-align: center;  
+}
+
+.subject {
+    width: 900px;
+    height: 200px; 
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5;   
+    font-size: 15px; 
+    text-align: center;
+}
+
+.submitbutton {
+    width: 120px; 
+    height: 50px; 
+    color: white; 
+    background-color: #4aaaa5;
+    font-size: 20px; 
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5; 
+    margin-left: 43%; 
+}
+
+.footer3 {
+    border-top: 8px solid #4aaaa5;
+    border-bottom: 8px solid #4aaaa5; 
+    border-left: 8px solid #4aaaa5; 
+    border-right: 8px solid #4aaaa5; 
+    background-color: #666666; 
+    color: white; 
+    height: 70px; 
+    width: 960px;  
+    margin-top: 850px;  
+    margin-left: 0px; 
+    margin-bottom: 0%;
+    position: absolute; 
+    text-align: center;
+}
+

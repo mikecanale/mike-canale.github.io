@@ -1,1 +1,4 @@
-# mike-canale.github.io
+# Assignment-1---Portfolio
+First homework assignment
+
+I found parts of this assignment very challenging. The sticky footer was a challenge and I'm ultimately not sure if I even did it correctly. I wanted to incorporate things we learned in the course so far, so that's why I did parent/child relationships on the portfolio page (I struggled with that concept during class, so I wanted to make sure I went back and figured it out in the homework). Even with that, it's not exactly how I wanted to look, but it was close. I did have a lot of moments of joy when something I was working on for like two hours finally worked or I figured out why it wasn't working (often times I forgot a ; or a } or something like that). It was a fun assignment. 
